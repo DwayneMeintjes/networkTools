@@ -15,7 +15,7 @@ while True:
     data = conn.recv(1024)
     print("Server received", repr(data))
 
-    filename="C:\Users\R3ZURR3CTI0N\Downloads\Gantt213.xlsx"
+    filename="Enter Path"
 
     f = open(filename, "rb")
     l = f.read(1024)
