@@ -1,6 +1,8 @@
+#Used Shodan API Documentation to write code.
+
 import shodan
 
-SHODAN_API_KEY = 'NxJs7lpgCiLNyDid3ojgvc8wPyNQfDfI'
+SHODAN_API_KEY = 'Enter Key'
 
 api = shodan.Shodan(SHODAN_API_KEY)
 
